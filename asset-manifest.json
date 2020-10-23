@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.f18265a9.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.7c12349e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7c12349e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bc59954b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bc59954b.js.map",
+    "static/js/2.660b8393.chunk.js": "/react-portfolio/static/js/2.660b8393.chunk.js",
+    "static/js/2.660b8393.chunk.js.map": "/react-portfolio/static/js/2.660b8393.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.c7cd22b3645a1481874d518f08c101e5.js": "/react-portfolio/precache-manifest.c7cd22b3645a1481874d518f08c101e5.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.f18265a9.chunk.css.map": "/react-portfolio/static/css/main.f18265a9.chunk.css.map",
+    "static/js/2.660b8393.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.660b8393.chunk.js.LICENSE.txt",
+    "static/media/budget-tracker.jpg": "/react-portfolio/static/media/budget-tracker.8f2edaa2.jpg",
+    "static/media/my-schtick-kick.jpg": "/react-portfolio/static/media/my-schtick-kick.b26fe8c5.jpg",
+    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/xpensifi.jpg": "/react-portfolio/static/media/xpensifi.92df45b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc59954b.js",
+    "static/js/2.660b8393.chunk.js",
+    "static/css/main.f18265a9.chunk.css",
+    "static/js/main.7c12349e.chunk.js"
+  ]
+}
